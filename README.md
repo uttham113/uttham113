@@ -49,7 +49,7 @@ OBJECTIVE   : TRACE ▸ ANALYZE ▸ CONTAIN ▸ ELIMINATE
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-hacker.gif" width="420"/>
+<img src="https://media.tenor.com/McPQygGOuXYAAAAi/gladgers-hacker-gers-guardians-of-galaxy.gif" width="420"/>
 </p>
 
 <hr>
