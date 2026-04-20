@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=UTTHAM+%2F%2F+THREAT+DETECTION+UNIT;SOC+ANALYST+%7C+CLOUD+SECURITY+OPERATOR;REAL-TIME+ALERT+INVESTIGATION+SPECIALIST" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=UTTHAM+%2F%2F+THREAT+DETECTION+UNIT;SOC+ANALYST+%7C+CLOUD+SECURITY+OPERATOR; REAL-TIME+ALERT+INVESTIGATION+SPECIALIST" />
 </h1>
 
 <p align="center">
